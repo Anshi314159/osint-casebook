@@ -62,9 +62,13 @@ The investigation followed a structured OSINT workflow:
 ---
 
 ## Screenshots
-
+Street View Image of Flinders Street Railway Station
 ![Street View Image of Flinders Street Railway Station](street-view-image-of-flinders-station.png)
+
+HWT and IBM buiding
 ![HWT and IBM buiding](hwt-ibm-building.png)
+
+Focus appartment Buiding which is taller than HWT and IBM
 ![Focus appartment Buiding which is taller than HWT and IBM](focus-appartment-taller.png)
 
 
